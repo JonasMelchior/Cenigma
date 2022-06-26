@@ -3,5 +3,5 @@
 Enigma project written in C
 
 ##
-Makefile located in src
+Makefile located in `src`
 ##
